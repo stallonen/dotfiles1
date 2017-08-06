@@ -1,9 +1,7 @@
 [global_config]
-  scroll_tabbar = True
-  title_inactive_bg_color = "#839021"
-  title_inactive_fg_color = "#d5dbb9"
-  title_transmit_bg_color = "#0e0f0a"
-  title_transmit_fg_color = "#d5dbb9"
+  title_inactive_bg_color = "#666666"
+  title_inactive_fg_color = "#ffffff"
+  title_transmit_bg_color = "#222222"
 [keybindings]
 [layouts]
   [[default]]
@@ -17,8 +15,9 @@
 [plugins]
 [profiles]
   [[default]]
-    background_color = "#070805"
-    cursor_color = "#d5dbb9"
-    foreground_color = "#d5dbb9"
-    palette = "#282828:#cc241d:#98971a:#d79921:#458588:#b16286:#689d6a:#a89984:#928374:#fb4934:#b8bb26:#fabd2f:#83a598:#d3869b:#8ec07c:#ebdbb2"
+    background_color = "#161616"
+    cursor_color = "#ffffff"
+    cursor_shape = ibeam
+    foreground_color = "#ffffff"
+    palette = "#222222:#e84f4f:#b7ce42:#fea63c:#66aabb:#b7416e:#6d878d:#dddddd:#666666:#d23d3d:#bde077:#ffe863:#aaccbb:#e16a98:#42717b:#cccccc"
     show_titlebar = False

@@ -20,4 +20,5 @@
     cursor_shape = ibeam
     foreground_color = "#ffffff"
     palette = "#222222:#e84f4f:#b7ce42:#fea63c:#66aabb:#b7416e:#6d878d:#dddddd:#666666:#d23d3d:#bde077:#ffe863:#aaccbb:#e16a98:#42717b:#cccccc"
+    scrollbar_position = hidden
     show_titlebar = False
